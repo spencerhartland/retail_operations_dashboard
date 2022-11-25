@@ -1,0 +1,418 @@
+[
+    {
+        "name": "Pikachu",
+        "role": "Ops Specialist",
+        "imageNameInBundle": "pikachu.image",
+        "schedule": [
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T11:45:00-0800",
+                "endTime": "2022-11-11T12:00:00-0800"
+            },
+            {
+                "zone": "Guided",
+                "startTime": "2022-11-11T12:00:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    },
+    {
+        "name": "Charmander",
+        "role": "Ops Expert",
+        "imageNameInBundle": "charmander.image",
+        "schedule": [
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:00:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T11:00:00-0800",
+                "endTime": "2022-11-11T11:15:00-0800"
+            },
+            {
+                "zone": "Inventory Operations",
+                "startTime": "2022-11-11T11:15:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    },
+    {
+        "name": "Squirtle",
+        "role": "Ops Specialist",
+        "imageNameInBundle": "squirtle.image",
+        "schedule": [
+            {
+                "zone": "Inventory Operations",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T11:45:00-0800",
+                "endTime": "2022-11-11T12:00:00-0800"
+            },
+            {
+                "zone": "Inventory Operations",
+                "startTime": "2022-11-11T12:00:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    },
+    {
+        "name": "Eevee",
+        "role": "Ops Specialist",
+        "imageNameInBundle": "eevee.image",
+        "schedule": [
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:15:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T11:15:00-0800",
+                "endTime": "2022-11-11T11:30:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T11:30:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    },
+    {
+        "name": "Bulbasaur",
+        "role": "Technology & Merchandising Pro",
+        "imageNameInBundle": "bulbasaur.image",
+        "schedule": [
+            {
+                "zone": "Tech & Merch",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:15:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T11:15:00-0800",
+                "endTime": "2022-11-11T11:30:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T11:30:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    },
+    {
+        "name": "Jigglypuff",
+        "role": "Operations Expert",
+        "imageNameInBundle": "jigglypuff.image",
+        "schedule": [
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:10:15-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T10:15:00-0800",
+                "endTime": "2022-11-11T11:30:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T11:30:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    },
+    {
+        "name": "Diglet",
+        "role": "Ops Specialist",
+        "imageNameInBundle": "diglet.image",
+        "schedule": [
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:10:15-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T10:15:00-0800",
+                "endTime": "2022-11-11T11:30:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T11:30:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    },
+    {
+        "name": "Togetic",
+        "role": "Ops Specialist",
+        "imageNameInBundle": "togetic.image",
+        "schedule": [
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T10:00:00-0800",
+                "endTime": "2022-11-11T11:11:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T11:00:00-0800",
+                "endTime": "2022-11-11T11:30:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T11:30:00-0800",
+                "endTime": "2022-11-11T13:15:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T13:15:00-0800",
+                "endTime": "2022-11-11T14:00:00-0800"
+            },
+            {
+                "zone": "Meal Break",
+                "startTime": "2022-11-11T14:00:00-0800",
+                "endTime": "2022-11-11T15:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T15:00:00-0800",
+                "endTime": "2022-11-11T16:45:00-0800"
+            },
+            {
+                "zone": "Rest Break",
+                "startTime": "2022-11-11T16:45:00-0800",
+                "endTime": "2022-11-11T17:00:00-0800"
+            },
+            {
+                "zone": "Operator",
+                "startTime": "2022-11-11T17:00:00-0800",
+                "endTime": "2022-11-11T18:00:00-0800"
+            },
+            {
+                "zone": "Runner 1",
+                "startTime": "2022-11-11T18:00:00-0800",
+                "endTime": "2022-11-11T19:00:00-0800"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "submittedAt": "2022-11-25T14:16:00-0800",
+        "type": "shopping",
+        "claimed": true,
+        "claimedBy": "Pikachu",
+        "requestedBy": "Deerling",
+        "location": "D3",
+        "itemCount": 1,
+        "items": [
+            {
+                "partNumber": "MQ003LL/A",
+                "description": "iPhone 14 Pro - Silver - 128GB"
+            }
+        ]
+    },
+    {
+        "submittedAt": "2022-11-25T14:16:02-0800",
+        "type": "shopping",
+        "claimed": false,
+        "claimedBy": "",
+        "requestedBy": "Ditto",
+        "location": "B1",
+        "itemCount": 1,
+        "items": [
+            {
+                "partNumber": "MGN63LL/A",
+                "description": "MBA M1 Space Gray"
+            }
+        ]
+    }
+]
